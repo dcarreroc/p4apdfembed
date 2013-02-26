@@ -22,3 +22,14 @@ P4A Widget for embed PDF file on mask using html tag <object> thanks to javascri
  - Show or hide the navigation panel and tab bar
 - Requirements
  - If you are using Firefox on Linux install mozplugger.
+
+Screenshots
+===========
+
+<img height="126" width="150" src="http://daniel.carrero.cl/images/pdfembed/1.png" />
+
+<img height="126" width="150" src="http://daniel.carrero.cl/images/pdfembed/2.png" />
+
+<img height="126" width="150" src="http://daniel.carrero.cl/images/pdfembed/3.png" />
+
+<img height="126" width="150" src="http://daniel.carrero.cl/images/pdfembed/4.png" />
